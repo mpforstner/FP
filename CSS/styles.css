@@ -1,0 +1,156 @@
+body {
+    color: #40514E;
+    background-color:#EEEEEE;
+    font-family: 'Kotta One', serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #231955;
+    font-family: 'Rock Salt', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color:#231955;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+hr {
+    border-style:double;
+    width: 25%;
+    margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+span {
+    text-decoration: underline;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: bold;
+    margin: 10px 20px;
+}
+
+a:hover {
+    color:#EAF6F6
+}
+
+.top-container {
+    background-color: #82AAE3;
+    position: relative;
+    padding-top: 100px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #231955;
+    position: relative;
+    padding: 20px 0 5px 0;
+    line-height: 3;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+
+.top-cloud {
+   position: absolute;
+   right: 300px;
+   top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.self-picture {
+    height: 350px;
+    border: solid 5px black;
+    border-radius: 50%;  
+}
+
+.purple-belt {
+    width: 25%;
+    border: solid 5px black;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.weights {
+    width: 25%;
+    border: solid 5px black;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+
+.footer-copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+
+.btn {
+    background: #11999e;
+    background-image: -webkit-linear-gradient(top, #11999e, #66BFBF);
+    background-image: -moz-linear-gradient(top, #11999e, #66BFBF);
+    background-image: -ms-linear-gradient(top, #11999e, #66BFBF);
+    background-image: -o-linear-gradient(top, #11999e, #66BFBF);
+    background-image: linear-gradient(to bottom, #11999e, #66BFBF);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Chakra Petch" ;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #40514E;
+    background-image: -webkit-linear-gradient(top, #40514E, #5845b3);
+    background-image: -moz-linear-gradient(top, #40514E, #5845b3);
+    background-image: -ms-linear-gradient(top, #40514E, #5845b3);
+    background-image: -o-linear-gradient(top, #40514E, #5845b3);
+    background-image: linear-gradient(to bottom, #40514E, #5845b3);
+    text-decoration: none;
+  }
+
+  .contact-description {
+    margin-bottom: 45px;
+  }
+
+
+
